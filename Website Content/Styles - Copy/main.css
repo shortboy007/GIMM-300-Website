@@ -1,205 +1,87 @@
 ﻿/* Import reset.css*/
 @import url(reset.css);
 
-/* Color Scheme: http://paletton.com/#uid=22P0u0kllllaFw0g0qFqFg0w0aF */
 
-html {
-    background-color: #2D882D;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 62.5%; /* 10px based on a browser default of 16px*/
+.container-color {
+    background-color: #2672ec;
+    color: white;
 }
 
-body {
-    line-height: 1.4;
+.smaller-image {
+    width: 100px;
 }
 
-h1 {
-    font-weight: 700;
-    font-size: 5rem;
-    color: #FFAAAA;
+.font-family {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.policy {
+    font-size: 12px;
+}
+
+.padding {
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 100px;
+}
+
+.navpadding {
+    padding: 20px;
     text-align: center;
-    clear: both;
-    padding: 0.7rem 1.5rem;
 }
 
-h2 {
-    font-size: 2.2rem;
-    color: #FFAAAA;
-    text-align: center;
+.cellspacing {
+	cellspacing: 40px;
 }
 
-    h2 a {
-        font-size: inherit;
-    }
-
-h3 {
-    font-size: 2.0rem;
-}
-
-h4 {
-    font-size: 1.8rem;
-}
-
-p {
-    font-size: 1.4rem;
-}
-
-a {
-    font-size: 1.6rem;
+a:link {
     text-decoration: none;
 }
 
-/* Webpage Layout */
-#WebPage {
-    width: 960px;
-    margin: 1.5rem auto;
+a:visited {
+    text-decoration: none;
+    color: black;
 }
 
-/* Banner */
-#banner {
-    background-color: #116611;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px black;
-    padding: 1rem 1rem 0 1rem;
-    margin-bottom: 1.5rem;
+a:hover {
+    color: gray;
 }
 
-    #banner a#itm {
-        float: left;
-    }
-
-        #banner a#itm img {
-            height: 127px;
-            width: 400px;
-            border-radius: 20px;
-        }
-
-    #banner a#me {
-        float: right;
-    }
-
-        #banner a#me img {
-            height: 127px;
-            border-radius: 20px;
-        }
-
-    #banner nav {
-        background-color: #AA3939;
-        border-radius: 10px;
-        padding: 0.5rem 0;
-        overflow:hidden;
-    }
-
-    #banner nav ul{
-        text-align:center;
-    }
-
-    #banner nav li{
-        display:inline;
-    }
-
-    #banner nav a{
-        color:#55AA55;
-        padding:1.0rem 2.0rem;
-    }
-
-    #banner nav a:hover{
-        background-color:#116611;
-    }
-
-    /* Content */
-    #Wrapper{
-        background-color:#55AA55;
-        border-radius: 20px;
-        box-shadow:5px 5px 5px black;
-        margin-bottom:1.5rem;
-        overflow:hidden;
-    }
-
-    #Wrapper h2{
-        padding: 1.0rem 0;
-    }
-
-    #SideLinks{
-        width: 15%;
-        float:left;
-    }
-
-    #SideLinks ul{
-        text-align:center;
-    }
-
-    #SideLinks li{
-        padding-bottom:1rem;
-    }
-
-    #SideLinks a{
-        color:#AA3939;
-    }
-
-    #SideLinks a:hover{
-        color: #004400;
-        text-decoration: underline;
-    }
-
-    /* Blog articles */
-    #Posts{
-        width:85%;
-        float:right;
-        background-color: white;
-    }
-
-    #Posts a{
-        color:#004400;
-    }
-
-    #Posts a:hover{
-        color: #55AA55;
-        text-decoration:underline;
-    }
-
-    #Posts p{
-        padding: 0.5rem;
-    }
-
-    #Posts hr{
-        border-color: #AA3939;
-        border-style: ridge;
-    }
-
-    #Posts footer{
-        padding:0.5rem;
-    }
-
-    #Footer{
-        background-color:#116611;
-        border-radius:20px;
-        box-shadow:5px 5px 5px black;
-        padding:1.5rem;
-        overflow:hidden;
-    }
-
-    #Footer #Cobelogo{
-        float:left;
-    }
-
-        #Footer #logo{
-            float:right;
-        }
-
-#logo a img{
-    height:200px;
+a:active {
+    color: lightgray;
 }
 
-#Footer p{
-    clear:both;
-    padding-top:1rem;
-    text-align:center;
-    font-size:1rem;
-    font-style:italic;
+header a:visited {
+    text-decoration: none;
+    color: white;
 }
 
-#Cobelogo a img{
-    height:200px;
+header a:hover {
+    color: lightgray;
 }
+
+footer a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    color: lightgray;
+}
+
+td {
+	padding: 40px;
+}
+
+h1 {
+	font-size: 40px; 
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
