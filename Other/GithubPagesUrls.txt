@@ -1,0 +1,5 @@
+Main Team Site Home Page URL
+https://the-internet-explorers.github.io/GIMM-300-Website/Website%20Content/Html%20Pages/index.html
+
+Style Sheet URL
+https://the-internet-explorers.github.io/GIMM-300-Website/Website Content/Styles/main.css
