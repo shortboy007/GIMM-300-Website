@@ -9,7 +9,7 @@
 		THE INTERNET EXPLORERS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</h3>-->	
   <nav class="navpadding">
-		<img src ="https://github.com/the-internet-explorers/GIMM-300-Website/blob/master/Images/internet-explorers.png?raw=true" alt="Logo">
+		<img src ="https://github.com/gimm-organization/GIMM-300-Website/blob/master/Images/internet-explorers.png?raw=true" alt="Logo">
 		<p class="font-family">&nbsp;</p>
 		<p class="font-family">&nbsp;</p>
 		<p class="font-family">
@@ -25,7 +25,7 @@
 </header>
 	
 <center>
-	<img src="https://github.com/the-internet-explorers/GIMM-300-Website/blob/master/Images/ourTeamBanner2.png?raw=true" alt="Our Team Header Graphic">	
+	<img src="https://github.com/gimm-organization/GIMM-300-Website/blob/master/Images/ourTeamBanner2.png?raw=true" alt="Our Team Header Graphic">	
 	<p class="font-family">&nbsp;</p>
 	<p class="font-family">&nbsp;</p>
 	<p class="font-family">&nbsp;</p>
@@ -52,7 +52,7 @@
 			<td>
 			<center>
 	        <h2 class="font-family">Team Leader</h2><br>
-			  <img src="https://github.com/the-internet-explorers/GIMM-300-Website/blob/master/Images/shawnpic.jpg?raw=true" alt="Picture of Shawn">
+			  <img src="https://github.com/gimm-organization/GIMM-300-Website/blob/master/Images/shawnpic.jpg?raw=true" alt="Picture of Shawn">
 			<p class="font-family">&nbsp;</p>  
 	        <h3 class="font-family">
 			Shawn Stigall
@@ -72,7 +72,7 @@
     	<tr>
       		<td width="338">
 			<center>
-        	<img src="https://github.com/the-internet-explorers/GIMM-300-Website/blob/master/Images/andrewpic.jpg?raw=true" alt="Picture of Andrew">
+        	<img src="https://github.com/gimm-organization/GIMM-300-Website/blob/master/Images/andrewpic.jpg?raw=true" alt="Picture of Andrew">
 			<p class="font-family">&nbsp;</p> 
   			<h3 class="font-family">
 			Andrew Morgan
@@ -85,7 +85,7 @@
 			</td>
       		<td width="338">
 		  	<center>
-			<img src="https://github.com/the-internet-explorers/GIMM-300-Website/blob/master/Images/mikepic.jpg?raw=true" alt="Picture of Mike">
+			<img src="https://github.com/gimm-organization/GIMM-300-Website/blob/master/Images/mikepic.jpg?raw=true" alt="Picture of Mike">
 			<p class="font-family">&nbsp;</p>     
 			<h3 class="font-family">
 			Mike Chaves
@@ -102,7 +102,7 @@
     	<tr>
       		<td width="338">
 			<center>
-        	<img src="https://github.com/the-internet-explorers/GIMM-300-Website/blob/master/Images/leepic.jpg?raw=true" alt="Picture of Lee"> 
+        	<img src="https://github.com/gimm-organization/GIMM-300-Website/blob/master/Images/leepic.jpg?raw=true" alt="Picture of Lee"> 
 			<p class="font-family">&nbsp;</p>
   			<h3 class="font-family"> 
 			Lee Rasmussen
@@ -118,7 +118,7 @@
 			</td>
 			<td width="338">
 				<center>
-				<img src="https://github.com/the-internet-explorers/GIMM-300-Website/blob/master/Images/christianpic.jpg?raw=true" alt="Picture of Christian"> 
+				<img src="https://github.com/gimm-organization/GIMM-300-Website/blob/master/Images/christianpic.jpg?raw=true" alt="Picture of Christian"> 
 				<p class="font-family">&nbsp;</p>
 				<h3 class="font-family"> Christian&nbsp;Easterday</h3>
 				<br>
